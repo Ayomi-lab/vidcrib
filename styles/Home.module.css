@@ -73,11 +73,9 @@
 }
 
 .center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: relative;
-  padding: 4rem 0;
+  padding: 10rem 0;
+  font-size: xx-large;
+  font-weight: bolder;
 }
 
 .center::before {
